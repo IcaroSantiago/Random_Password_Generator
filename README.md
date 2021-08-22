@@ -12,4 +12,4 @@ As senhas contam com numeros, letras e simbolos.
 ![tst2](https://user-images.githubusercontent.com/73247255/130370966-674b6dbb-c81a-4a41-ab82-68437b300ca1.png)
 
 # Segunda Forma
-
+![ggg](https://user-images.githubusercontent.com/73247255/130371383-f3c8a0c8-0423-4308-bf56-3783729fa8c2.png)
